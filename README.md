@@ -6,13 +6,12 @@
   <b>Web development is my profession and I work as a web developer.</b>
 </center><br/><br/>
 
-- 🔭 I’m currently learning from "Apna College" https://www.apnacollege.in/
+- 🔭 I'm currently working in web development as a freelancer.
 - 🌱 I’m currently learning at https://www.javatpoint.com/
 - 🤔 I’m looking for job on https://in.linkedin.com/ 
-- 💬 Ask me about Frontend development.
+- 💬 Ask me about web development.
 -  💻 You can visit my portfolio https://httpsashu404.netlify.app/
 - 📫 How to reach me: ashutoshkumarssm352@gmail.com 
--->
 
 # Hashtag :
 #portfolio
