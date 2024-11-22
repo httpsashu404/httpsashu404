@@ -1,7 +1,7 @@
 <center>
   <h1>Hi 👋, I'm Ashutosh Kumar</h1>
   <h4>I'm a MERN Stack Developer.</h4><br/>
-  <img src='https://github.com/httpsashu404/WordCounter/assets/159816902/bc81df64-273f-41e9-9925-d74f7b9f7ce8' >
+  <img src='https://github.com/user-attachments/assets/713224ae-a74d-49b3-9668-60acc4830004' >
    <br/><br/>
   <b>Web development is my profession and I work as a web developer.</b>
 </center><br/><br/>
