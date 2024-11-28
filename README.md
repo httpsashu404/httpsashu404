@@ -3,7 +3,6 @@
   <h4>I'm a MERN Stack Developer.</h4><br/>
   <img src='https://github.com/user-attachments/assets/713224ae-a74d-49b3-9668-60acc4830004' >
    <br/><br/>
-  <b>Web development is my profession and I work as a freelancer.</b>
 </center><br/><br/>
 
 - 🔭 I'm currently working in web development as a freelancer.
